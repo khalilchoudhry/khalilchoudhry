@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Choudhry</h1>
 <h3 align="center">Full Stack Developer with keen interest in backend technologies!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilchoudhry" alt="khalilchoudhry" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khalilchoudhry" alt="khalilchoudhry" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khalilchoudhry&show_icons=true" alt="khalilchoudhry" />
